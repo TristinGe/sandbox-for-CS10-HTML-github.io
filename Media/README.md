@@ -1,2 +1,2 @@
-# sandbox-for-CS10-HTML-github.io
-CS10 website  learning
+# Sandbox-P3-Learning-HTML-github.io
+CS 10 Website to learn how to build a website
